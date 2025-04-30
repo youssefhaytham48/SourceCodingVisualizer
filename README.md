@@ -26,4 +26,4 @@
 2. Navigate to the directory containing the code file.
 3. Run the main script:
    ```matlab
-   coding_techniques_gui
+   SourceCodingVisualizer.m
